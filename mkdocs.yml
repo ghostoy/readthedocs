@@ -1,0 +1,10 @@
+site_name: ReadTheDocs Test Project
+# pages:
+# - Home: Home.md
+# - References:
+#     - App: App.md
+theme: cosmo
+markdown_extensions:
+    - toc:
+        permalink: True
+        separator: "_"
